@@ -5,7 +5,7 @@ Couldn't find an easy way to view camera in terminal, and nothing that worked cr
 
 ```bash
 git clone https://github.com/frigginglorious/webcamToCLI
-cd webcamToCLI/inPython
+cd webcamToCLI
 python3 webcamToCLI.py
 ```
 
